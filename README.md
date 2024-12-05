@@ -11,3 +11,4 @@ Database Configuration:
 Start Apache and MySQL using XAMPP.
 Open phpMyAdmin and create a database (e.g., nstu_academia).
 Import the provided SQL file into the database.
+SRS:https://github.com/IIT-NSTU/Nstu-Academia/blob/main/NstuAcademia_SRS.pdf
